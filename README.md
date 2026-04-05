@@ -20,3 +20,9 @@ Waste distribution analysis
 Recycling rate
 Energy consumption
 Trend analysis
+
+ Installation
+ git clone https://github.com/Sushmita0314/AI-Waste-Management-Dashboard.git cd AI-Waste-Management-Dashboard
+ pip install -r requirements.txt
+ python src/train_model.py
+ 
